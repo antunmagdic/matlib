@@ -1,2 +1,3 @@
 # matlib
-Simple library for linear algebra
+
+Simple library for operations with matrices.
