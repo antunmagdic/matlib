@@ -312,7 +312,7 @@ Matrix rbind(const Matrix& m1, const Matrix& m2) {
     return m;
 }
 
-// Returns a vector of doubles find in given string separated by spaces or 
+// Returns a vector of doubles found in the given string separated by spaces or 
 // tabs.
 // Throws std::invalid_argument if numbers aren't formatted correctly.
 static std::vector<double> parse_row(const std::string& str) {
